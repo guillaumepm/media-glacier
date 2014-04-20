@@ -13,3 +13,59 @@
 {"level":"notice","message":"stopping server: web","timestamp":"2014-04-19T23:29:55.414Z"}
 {"level":"notice","message":"stopping server: websocket","timestamp":"2014-04-19T23:29:55.415Z"}
 {"level":"alert","message":"The actionhero has been stopped","timestamp":"2014-04-19T23:29:55.917Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-04-20T04:39:16.390Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-04-20T04:39:16.392Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-04-20T04:40:00.180Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-04-20T04:40:00.182Z"}
+{"level":"info","message":"running custom initializer: aws","timestamp":"2014-04-20T04:40:00.226Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-04-20T04:40:10.505Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-04-20T04:40:10.508Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Users/Guillaume/dev/various/media-glacier/API/initializers/aws.js) ***\r\n\r\n","timestamp":"2014-04-20T04:40:29.551Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-04-20T04:40:29.587Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-04-20T04:40:29.588Z"}
+{"level":"info","message":"running custom initializer: aws","timestamp":"2014-04-20T04:40:29.608Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Users/Guillaume/dev/various/media-glacier/API/initializers/aws.js) ***\r\n\r\n","timestamp":"2014-04-20T04:45:46.767Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-04-20T04:45:46.781Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-04-20T04:45:46.808Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-04-20T04:45:46.782Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-04-20T04:45:46.808Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Users/Guillaume/dev/various/media-glacier/API/initializers/aws.js) ***\r\n\r\n","timestamp":"2014-04-20T04:45:46.782Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Users/Guillaume/dev/various/media-glacier/API/initializers/aws.js) ***\r\n\r\n","timestamp":"2014-04-20T04:46:04.783Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-04-20T04:46:04.799Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-04-20T04:46:04.849Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-04-20T04:46:04.862Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-04-20T04:46:04.800Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-04-20T04:46:04.849Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-04-20T04:46:04.863Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Users/Guillaume/dev/various/media-glacier/API/initializers/aws.js) ***\r\n\r\n","timestamp":"2014-04-20T04:46:04.800Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Users/Guillaume/dev/various/media-glacier/API/initializers/aws.js) ***\r\n\r\n","timestamp":"2014-04-20T04:46:04.850Z"}
+{"level":"info","message":"running custom initializer: aws","timestamp":"2014-04-20T04:46:04.877Z"}
+{"level":"info","message":"running custom initializer: aws","timestamp":"2014-04-20T04:46:04.882Z"}
+{"level":"info","message":"running custom initializer: aws","timestamp":"2014-04-20T04:46:04.889Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Users/Guillaume/dev/various/media-glacier/API/initializers/aws.js) ***\r\n\r\n","timestamp":"2014-04-20T04:46:15.801Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-04-20T04:46:15.820Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-04-20T04:46:15.855Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-04-20T04:46:15.888Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-04-20T04:46:15.922Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-04-20T04:46:15.821Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-04-20T04:46:15.855Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-04-20T04:46:15.888Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-04-20T04:46:15.923Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Users/Guillaume/dev/various/media-glacier/API/initializers/aws.js) ***\r\n\r\n","timestamp":"2014-04-20T04:46:15.821Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Users/Guillaume/dev/various/media-glacier/API/initializers/aws.js) ***\r\n\r\n","timestamp":"2014-04-20T04:46:15.856Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Users/Guillaume/dev/various/media-glacier/API/initializers/aws.js) ***\r\n\r\n","timestamp":"2014-04-20T04:46:15.889Z"}
+{"level":"info","message":"Cannot shut down (not running any servers)","timestamp":"2014-04-20T04:46:25.410Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-04-20T04:46:27.774Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-04-20T04:46:27.776Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Users/Guillaume/dev/various/media-glacier/API/initializers/aws.js) ***\r\n\r\n","timestamp":"2014-04-20T04:51:28.078Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-04-20T04:51:28.089Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-04-20T04:51:28.090Z"}
+{"level":"info","message":"running custom initializer: aws","timestamp":"2014-04-20T04:51:28.096Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Users/Guillaume/dev/various/media-glacier/API/initializers/aws.js) ***\r\n\r\n","timestamp":"2014-04-20T04:51:31.080Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-04-20T04:51:31.093Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-04-20T04:51:31.113Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-04-20T04:51:31.093Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-04-20T04:51:31.118Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Users/Guillaume/dev/various/media-glacier/API/initializers/aws.js) ***\r\n\r\n","timestamp":"2014-04-20T04:51:31.093Z"}
+{"level":"info","message":"running custom initializer: aws","timestamp":"2014-04-20T04:51:31.128Z"}
+{"level":"info","message":"running custom initializer: aws","timestamp":"2014-04-20T04:51:31.130Z"}
